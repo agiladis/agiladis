@@ -1,4 +1,4 @@
-<details> 
+<div> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
@@ -31,4 +31,4 @@
      <br>
      </samp>
   </div>    
-</details>
+</div>
